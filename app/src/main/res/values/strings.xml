@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Actividad 10</string>
+    <string name="BotonIniciar">Iniciar Servicio</string>
+    <string name="BotonDetener">Detener Servicio</string>
+    <string name="BotonAleatorior">Generar Numero</string>
+</resources>
